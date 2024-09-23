@@ -44,6 +44,7 @@ This project processes audio files of vowels, extracts cepstral coefficients, an
 
 ## Results
 - The results will be displayed in the terminal, showing the predicted vowel for each test file.
+- 
 - Processed data (like cepstral coefficients) will be saved in the `output/` folder.
 
 ## License
